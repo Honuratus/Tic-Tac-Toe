@@ -16,6 +16,7 @@ In the future, the following developments are planned:
 
 How to run the game:
 
+    git clone https://github.com/Honuratus/Tic-Tac-Toe.git
     gcc main.c game.c -o game  #Compile the source code
     ./game.exe  #Run the executable.
 
