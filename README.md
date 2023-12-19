@@ -15,10 +15,9 @@ In the future, the following developments are planned:
     Make the game work on different platforms.
 
 How to run the game:
-    1.Compile the code
-        gcc main.c game.c -o game
-    2.Run the executable
-        ./game.exe
+
+    gcc main.c game.c -o game  #Compile the source code
+    ./game.exe  #Run the executable.
 
 Project owner:
 Onur Baran Yılmaz
