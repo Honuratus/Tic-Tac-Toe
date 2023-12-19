@@ -12,6 +12,13 @@ In the future, the following developments are planned:
     Make the game multiplayer
     Add new challenges to the game
     Run the game with a graphical interface
+    Make the game work on different platforms.
+
+How to run the game:
+    1.Compile the code
+        gcc main.c game.c -o game
+    2.Run the executable
+        ./game.exe
 
 Project owner:
 Onur Baran Yılmaz
